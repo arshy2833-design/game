@@ -1,2 +1,3 @@
 aaj k hisab = 1200
 2 oct k hisab = 1800
+3 oct k hisab = 2000
